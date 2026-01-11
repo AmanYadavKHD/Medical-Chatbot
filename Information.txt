@@ -1,0 +1,3 @@
+GitHub Link - https://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+
+Youtube Link - https://www.youtube.com/live/KnoVFU0yCUc?si=vIrs2P2WVizAQ006
